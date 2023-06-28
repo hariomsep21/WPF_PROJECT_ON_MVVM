@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WpfApp23 MVVM/1.0.0": {
+        "runtime": {
+          "WpfApp23 MVVM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp23 MVVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

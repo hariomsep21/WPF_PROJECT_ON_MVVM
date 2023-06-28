@@ -1,0 +1,21 @@
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\bin\Debug\net6.0-windows\WpfApp23 MVVM.exe
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\bin\Debug\net6.0-windows\WpfApp23 MVVM.deps.json
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\bin\Debug\net6.0-windows\WpfApp23 MVVM.runtimeconfig.json
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\bin\Debug\net6.0-windows\WpfApp23 MVVM.dll
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\bin\Debug\net6.0-windows\WpfApp23 MVVM.pdb
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.csproj.AssemblyReference.cache
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM_MarkupCompile.cache
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM_MarkupCompile.lref
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.g.resources
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.AssemblyInfoInputs.cache
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.AssemblyInfo.cs
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.csproj.CoreCompileInputs.cache
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.dll
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\refint\WpfApp23 MVVM.dll
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.pdb
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\WpfApp23 MVVM.genruntimeconfig.cache
+C:\Users\HariomSrivastav\source\repos\WPF\WpfApp23 MVVM\WpfApp23 MVVM\obj\Debug\net6.0-windows\ref\WpfApp23 MVVM.dll
